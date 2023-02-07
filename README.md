@@ -1,3 +1,6 @@
 # WombatX Exchange Core
 
-Core smart contracts of WombatX v1
+---
+
+This repository contains the core smart contracts for the WombatX V1
+Protocol.
